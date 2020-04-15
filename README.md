@@ -1,6 +1,6 @@
 # N64 Cart Relocation Flex
 
-This is a flexible PCB for relocating the cartridge connector on N64 for portable builds. 
+This is a flexible PCB for relocating the cartridge connector on the N64 for portable builds. 
 
 ![N64 Flex](https://i.imgur.com/ru2R3ga.png)
 
